@@ -26,20 +26,20 @@ const budget = [
   {
     item: 'Gym Membership',
     category: 'Personal Care',
-    budget: 30,
-    actual: 280
+    budget: 0,
+    actual: 0
   },
   {
     item: 'Car Payment',
     category: 'Bills',
-    budget: 352,
-    actual: 352,
+    budget: 0,
+    actual: 0,
   },
   {
     item: 'Groceries',
     category: 'Necessities',
-    budget: 400,
-    actual: 400,
+    budget: 0,
+    actual: 0,
   },
 ];
 
